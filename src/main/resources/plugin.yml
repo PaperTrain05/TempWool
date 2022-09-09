@@ -1,0 +1,3 @@
+name: TempWool
+version: '${project.version}'
+main: io.paper.tempwool.Main
